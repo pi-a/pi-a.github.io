@@ -59,6 +59,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/pajam-atufi", "_blank");
         },
       },{
+        id: 'social-xing',
+        title: 'Xing',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.xing.com/profile/Pajam_Atufi", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
