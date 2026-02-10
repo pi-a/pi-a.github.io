@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-curriculum-vitae",
           title: "Curriculum Vitae",
-          description: "To see more detail please refer to my [LinkedIn](https://www.linkedin.com/in/pajam-atufi/) page.",
+          description: "To see more detail please refer to my LinkedIn.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
