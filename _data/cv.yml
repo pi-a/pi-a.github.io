@@ -125,7 +125,7 @@ cv:
       - name: Programming Languages
         level: Proficient
         icon: fa-solid # fa-hashtag
-        keywords: "PyTorch, TensorFlow, Scikit-Learn, PyTorch3D, PyTorch Geometric, OpenCV, IBM ILOG CPLEX Optimization, Streamlit"
+        keywords: "Python (including but not limited to libraries such as PyTorch, TensorFlow, Scikit-Learn, PyTorch3D, PyTorch Geometric, OpenCV, IBM ILOG CPLEX Optimization, Streamlit), MATLAB, and Microcontroller Programming"
 
     Languages:
       - name: German
