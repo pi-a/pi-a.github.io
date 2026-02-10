@@ -1,7 +1,7 @@
 cv:
   name: Pajam Atufi
   label: Machine Learning Researcher, Data Scientist, and Robotics Researcher
-  email: ""
+#  email: ""
   location: Germany
   image: ""
   summary: I am an AI developer with over 8 years of experience in in **Machine Learning**, **Deep Learning**, **Computer Vision**, **Robotics**, **Data Science**, and **Optimization**. Moreover, I have experience in Recommender Systems, Signal Processing, System Identification, Control, and Geometric Deep Learning, when dealing with data with non-Euclidean underlying structures. Having worked closely with the industry and collaborated with research teams with different expertise, I have strengthened my understanding of the potential demands and desires of the companies. My background in innovative data-driven methods, and operation optimization strategies, has particularly helped me to be capable of methodically and systematically find and offer solutions in the context of user experience-based tasks.
@@ -13,10 +13,10 @@ cv:
       username: pajam-atufi
 
   address:
-    street: ""
-    city: ""
-    region: ""
-    postalCode: ""
+#    street: ""
+#    city: ""
+#    region: ""
+#    postalCode: ""
     countryCode: DE
 
   sections:
