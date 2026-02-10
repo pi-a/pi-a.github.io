@@ -5,4 +5,8 @@ repo_description_lines_max: 2
 
 github_repos:
   - pi-a/basalganglia_gui_pyqt5
-
+  - pi-a/relational_inference_air_quality
+  - pi-a/air_quality_time_series_forecasting
+  - pi-a/FreeCAD_env
+  - hamkerlab/Neurorobotics_SummerSchool2022
+  - pi-a/robotics_matlab_educational
